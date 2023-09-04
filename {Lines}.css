@@ -1,0 +1,11 @@
+.line {
+    height: 2px;
+    background-image: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    /* 👇 التحكم في طول line */
+    position: absolute;
+    left: 110px;
+    right: 48px; /*👆*/
+    /* 👇 التحكم في اين يبدأ وينتهي */
+    top: 67px; /*👆*/
+  }
+

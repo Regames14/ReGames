@@ -1,0 +1,443 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    overflow-y: scroll; /* Enable vertical scrolling */
+    overflow-x: hidden; /* Disable horizontal scrolling */
+    font-family: 'Noto Serif', serif; /* This line for call the fonts */
+    font-family: 'Anton', sans-serif;
+}
+
+.Gradiant-Background {
+    width: 100%;
+    height: 130vh;
+    background: #192e59
+    /* background: linear-gradient(to bottom, #192e59, #0f2242); */
+}
+
+.Logo{
+    /* 👇 الحجم */
+    max-width: 50%;
+    max-height: 50%; /*👆*/
+    /* 👇 المكان */
+    top: 0%;
+    left: 24%; /*👆*/
+    position: absolute;
+}
+
+
+/* -----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------FORTNITE-------------------------------------------------------------------- */
+.rectangle-Fortnite- {
+    /* 👇 حجم المستطيل */
+    width: 370px; 
+    height: 136px; /*👆*/
+    background-color: #fff; 
+    /* 👇 مكان المستطيل */
+    left: 113px;
+    top: 400px; /*👆*/
+    position: relative;
+    border: 6px solid transparent;
+    border-image: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    border-image-slice: 1;
+}
+
+.latest{
+    position: relative;
+    top: 39px;
+    left: 18px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 100;
+    font-size: small;
+    /* font-style: italic; */
+
+}
+
+.version{
+    font-weight: 600;
+}
+
+.apps_name-FortniteMobile{
+    position: relative;
+    top: -8px;
+    left: 107px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 600;
+    /* font-style: italic; */
+}
+
+.download_num-FortniteMobile{
+    position: relative;
+    top: -34px;
+    left: 129px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.download-FortniteMobile{
+    position: relative;
+    top: -53px;
+    left: 236px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.device{
+    position: relative;
+    top: -41px;
+    left: 113px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    /* font-style: italic; */
+}
+
+/* -----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------Minecraft------------------------------------------------------------------- */
+
+.rectangle-Minecraft- {
+    /* 👇 حجم المستطيل */
+    width: 370px; 
+    height: 136px; /*👆*/
+    background-color: #fff; 
+    /* 👇 مكان المستطيل */
+    left: 610px;
+    top: 252px; /*👆*/
+    position: relative;
+    border: 6px solid transparent;
+    border-image: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    border-image-slice: 1;
+}
+
+.latest{
+    position: relative;
+    top: 39px;
+    left: 18px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 100;
+    font-size: small;
+    /* font-style: italic; */
+
+}
+
+.version{
+    font-weight: 600;
+}
+
+.apps_name-Minecraft{
+    position: relative;
+    top: -8px;
+    left: 107px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 600;
+    /* font-style: italic; */
+}
+
+.download_num-Minecraft{
+    position: relative;
+    top: -34px;
+    left: 129px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.download-Minecraft{
+    position: relative;
+    top: -53px;
+    left: 236px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.device{
+    position: relative;
+    top: -41px;
+    left: 113px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    /* font-style: italic; */
+}
+
+/* -----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------FOOTBALL MANAGER 2023 MOBILE---------------------------------------------------- */
+
+.rectangle-football-manager- {
+    /* 👇 حجم المستطيل */
+    width: 370px; 
+    height: 136px; /*👆*/
+    background-color: #fff; 
+    /* 👇 مكان المستطيل */
+    left: 1103px;
+    top: 104px; /*👆*/
+    position: relative;
+    border: 6px solid transparent;
+    border-image: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    border-image-slice: 1;
+}
+
+.latest{
+    position: relative;
+    top: 39px;
+    left: 18px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 100;
+    font-size: small;
+    /* font-style: italic; */
+
+}
+
+.version{
+    font-weight: 600;
+}
+
+.apps_name-FootballManager{
+    position: relative;
+    top: -8px;
+    left: 107px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 600;
+    /* font-style: italic; */
+}
+
+.download_num-FootballManager{
+    position: relative;
+    top: -34px;
+    left: 129px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.download-FootballManager{
+    position: relative;
+    top: -53px;
+    left: 236px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.device{
+    position: relative;
+    top: -41px;
+    left: 113px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    /* font-style: italic; */
+}
+
+/* -----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------GARTEN OF BANBAN 4---------------------------------------------------------- */
+
+.rectangle-garten-of-banban- {
+    /* 👇 حجم المستطيل */
+    width: 370px; 
+    height: 136px; /*👆*/
+    background-color: #fff; 
+    /* 👇 مكان المستطيل */
+    left: 113px;
+    top: 142px; /*👆*/
+    position: relative;
+    border: 6px solid transparent;
+    border-image: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    border-image-slice: 1;
+}
+
+.latest{
+    position: relative;
+    top: 39px;
+    left: 18px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 100;
+    font-size: small;
+    /* font-style: italic; */
+
+}
+
+.version{
+    font-weight: 600;
+}
+
+.apps_name-GartenOfBanban{
+    position: relative;
+    top: -8px;
+    left: 107px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 600;
+    /* font-style: italic; */
+}
+
+.download_num-GartenOfBanban{
+    position: relative;
+    top: -34px;
+    left: 129px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.download-GartenOfBanban{
+    position: relative;
+    top: -53px;
+    left: 236px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.device{
+    position: relative;
+    top: -41px;
+    left: 113px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    /* font-style: italic; */
+}
+
+/* -----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------BLOONS TD 6------------------------------------------------------------- */
+
+.rectangle-bloons-td-{
+    /* 👇 حجم المستطيل */
+    width: 370px; 
+    height: 136px; /*👆*/
+    background-color: #fff; 
+    /* 👇 مكان المستطيل */
+    left: 610px;
+    top: -6px; /*👆*/
+    position: relative;
+    border: 6px solid transparent;
+    border-image: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    border-image-slice: 1;
+}
+
+.latest{
+    position: relative;
+    top: 39px;
+    left: 18px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 100;
+    font-size: small;
+    /* font-style: italic; */
+
+}
+
+.version{
+    font-weight: 600;
+}
+
+.apps_name-BloonsTD6{
+    position: relative;
+    top: -8px;
+    left: 107px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 600;
+    /* font-style: italic; */
+}
+
+.download_num-BloonsTD6{
+    position: relative;
+    top: -34px;
+    left: 129px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.download-BloonsTD6{
+    position: relative;
+    top: -53px;
+    left: 236px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.device{
+    position: relative;
+    top: -41px;
+    left: 113px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    /* font-style: italic; */
+}
+
+/* -----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------6-----GTA 5 MOBILE----66--------------------------------------------------------- */
+
+.rectangle-gta-mobile-5{
+    /* 👇 حجم المستطيل */
+    width: 370px; 
+    height: 136px; /*👆*/
+    background-color: #fff; 
+    /* 👇 مكان المستطيل */
+    left: 1103px;
+    top: -154px; /*👆*/
+    position: relative;
+    border: 6px solid transparent;
+    border-image: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    border-image-slice: 1;
+}
+
+.latest{
+    position: relative;
+    top: 39px;
+    left: 18px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 100;
+    font-size: small;
+    /* font-style: italic; */
+
+}
+
+.version{
+    font-weight: 600;
+}
+
+.apps_name-GtaMobile{
+    position: relative;
+    top: -8px;
+    left: 107px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 600;
+    /* font-style: italic; */
+}
+
+.download_num-GtaMobile{
+    position: relative;
+    top: -34px;
+    left: 129px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.download-GtaMobile{
+    position: relative;
+    top: -53px;
+    left: 236px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+.device{
+    position: relative;
+    top: -41px;
+    left: 113px;
+    font-family: 'Noto Serif', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    /* font-style: italic; */
+}
+
+
+
